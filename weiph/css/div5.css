@@ -1,0 +1,14 @@
+#div5{
+	background: url(../img/mst_634baecb7e481c6f745ab18410edd810.jpg);
+	background-size: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: space-around;
+}
+#div5 >img{
+	padding-top:70px ;
+	padding-left: 10px;
+	width: 30%;
+	height: 30%;}
+

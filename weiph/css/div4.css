@@ -1,0 +1,26 @@
+#div4{
+	background: url(../img/mst_aae0098fbbf7e246383b0ae77e489e88.jpg);
+	background-size: 100%;
+}
+
+#div4_1{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: space-around;
+}
+
+#div4_1 >img{
+	padding-top:70px ;
+	width: 20%;
+	height: 20%;
+}
+#div4_2 >p{
+	font-size: 1px;
+}
+
+#div4_2 .p1{
+	background: deeppink;
+	font-size: 1px;
+	color: white;
+}

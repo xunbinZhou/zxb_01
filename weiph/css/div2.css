@@ -1,0 +1,15 @@
+#div2{
+	
+	background: url(../img/15514241183527.jpg);
+	background-size:100% ;
+    display: flex;
+	flex-wrap:wrap ;
+	align-content: center;
+}
+#div2 >img{
+		width: 20%;
+		height: 20%;
+}
+#div2_1 >img{
+	width: 100%;
+}
